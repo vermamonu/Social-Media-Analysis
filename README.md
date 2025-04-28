@@ -3,7 +3,7 @@
 This project is dedicated to analyzing user engagement and platform performance on Instagram to provide valuable insights for the marketing team and investors. Through SQL queries and data analysis, we aim to address various aspects of marketing strategies, user behaviors, and investor metrics.
 
 # A) Marketing Analysis:
-**Rewarding Most Loyal Users:** Task: Identify the five oldest users on Instagram to reward them for their loyalty.
+*Rewarding Most Loyal Users:* Task: Identify the five oldest users on Instagram to reward them for their loyalty.
 
 **Remind Inactive Users to Start Posting:** Task: Find users who have never posted a single photo on Instagram to target them with promotional emails.
 
